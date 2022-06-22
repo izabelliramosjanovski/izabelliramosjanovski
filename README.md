@@ -1,10 +1,10 @@
 ## iza      ##
-oi, eu sou izabelli ramos
-- 👋 estudo em uma escola pública
-- 👀 estou interessada em ser astronoma
+oi, me chamo izabelli ramos, tenho 15 anos de idade
+- moro na cidade de São Mateus do Sul
+- 👋 estudo no colégio Paulo Stencel
+- 👀 estou interessada em aprender desenvolvimento de sistemas.
 - 🌱 atualmente estou aprendendo a criar sites
-- 💞️ estou querendo colaborar em
-- 📫 How to reach me ...
+- 💞 meu principal meio de estudo é pelo meu email izabelli.janovski@escola.pr.gov.br
 
 <!---
 izabelliramosjanovski/izabelliramosjanovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
